@@ -9,6 +9,10 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+body {
+  overflow: hidden;
+}
+
 .up {
   display: flex;
   justify-content: center;
